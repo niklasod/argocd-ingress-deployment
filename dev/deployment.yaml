@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: testapp
-        image: sysose/argocd-ingress:1.0
+        image: sysose/argocd-ingress:1.1
         resources:
           requests:
             memory: "32Mi"
